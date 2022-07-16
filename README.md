@@ -1,4 +1,4 @@
-### Hi My programmer friend 👋
+### Hi 👋
 # I'm Mohammad Hossein
 I'm a Android software engineer who enjoys building things that help Society and improve people's lives, or to help others in any way 
 I develop Android App with loves and more loves
@@ -6,12 +6,20 @@ I enjoy constantly learning and improving my skills and really love hard work in
 
 # My Skills and Technologies
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,git,mysql,github,dart,linux,firebase,gradle,androidstudio&theme=light)](https://skillicons.dev)
+  
+  
 
-<p dir="auto" align="left"> <a href="https://developer.android.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" style="max-width: 100%;" width="40" height="40"> </a><a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;" width="40" height="40"> </a><a href="https://cloud.google.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="gcp" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://kotlinlang.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" alt="kotlin" data-canonical-src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width: 100%;" width="40" height="40"> </a><a href="https://github.com/"><img src="https://camo.githubusercontent.com/0cb88d005d2975de1f0f089f3de494f09733ead3632f64c4907e3b4cadd2d107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d776869746526636f6c6f723d313831373137" alt="github" data-canonical-src="https://img.shields.io/badge/GitHub-informational?style=flat-square&amp;logo=GitHub&amp;logoColor=white&amp;color=181717" style="max-width: 100%;"></a><a href="https://www.kernel.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/266a85e5c1a5f5e1f5b2a7d74824af9c16c44816eb101a4d37c43d1729549b57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d4c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d464343363234" alt="linux" data-canonical-src="https://img.shields.io/badge/Linux-informational?style=flat-square&amp;logo=Linux&amp;logoColor=white&amp;color=FCC624" style="max-width: 100%;"></a><a href="https://www.mysql.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/fca1c82cf98c47f7189310bfe2090ab3e85c5b8f390b4df1f9d02f4987ea0e21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d776869746526636f6c6f723d343437394131" alt="mysql" data-canonical-src="https://img.shields.io/badge/MySQL-informational?style=flat-square&amp;logo=mysql&amp;logoColor=white&amp;color=4479A1" style="max-width: 100%;"></a><a href="https://git-scm.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/1cd43eb732f27b0d5c0f4ccaa0587668813bedd927530aab5f59bb30b5fa0e80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d776869746526636f6c6f723d463035303332" alt="git" data-canonical-src="https://img.shields.io/badge/Git-informational?style=flat-square&amp;logo=Git&amp;logoColor=white&amp;color=F05032" style="max-width: 100%;"></a><a href="https://www.mongodb.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/c98f6237df57e9e213c49ab7d9f7a1a2948295d821cd6830a9345ea310a6bffe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d776869746526636f6c6f723d304641323443" alt="mongodb" data-canonical-src="https://img.shields.io/badge/MongoDB-informational?style=flat-square&amp;logo=mongodb&amp;logoColor=white&amp;color=0FA24C" style="max-width: 100%;"></a> </p>
-  
-  
-  
+## Contact Me
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+</div>
+
+
+#
 ![](https://komarev.com/ghpvc/?username=mhchofficial)
+
 <!--
 **mhchofficial/mhchofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
