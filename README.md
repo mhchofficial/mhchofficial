@@ -8,12 +8,11 @@ I enjoy constantly learning and improving my skills and really love hard work in
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,git,mysql,github,dart,linux,firebase,gradle,androidstudio&theme=light)](https://skillicons.dev)
   
-  
 
 ## Contact Me
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.linkedin.com/in/mohammad-chavazi-683681238/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"</a>
+  <a href="mailto:m.h.chavazi@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email Badge"</a>
 </div>
 
 
