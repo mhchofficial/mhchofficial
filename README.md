@@ -11,8 +11,7 @@ I enjoy constantly learning and improving my skills and really love hard work in
   
   
   
-<img src="https://camo.githubusercontent.com/c880322bbee8aed2423b325ad69e61583797b5f529911efface635786cb80aa6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d426c616e6b6a26636f6c6f723d627269676874677265656e266c6162656c3df09f91812532305669657773" data-canonical-src="https://komarev.com/ghpvc/?username=mhchofficial&amp;color=brightgreen&amp;label=👁%20Views" style="max-width: 100%;">
-
+![](https://komarev.com/ghpvc/?username=mhchofficial)
 <!--
 **mhchofficial/mhchofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
