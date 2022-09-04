@@ -17,7 +17,6 @@ I enjoy constantly learning and improving my skills and really love hard work in
 
 
 #
-![](https://komarev.com/ghpvc/?username=mhchofficial)
 
 <!--
 **mhchofficial/mhchofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
